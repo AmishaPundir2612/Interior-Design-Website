@@ -1,6 +1,8 @@
 # Interior-Design-Website
 Interior Design Website using HTML , CSS , JS , Bootstrap for Frontend and NodeJS, MySQL for Backend.
+
 Check out the frontend part at ---> https://serene-shore-02746.herokuapp.com/
+
 THIS IS A PROJECT WORK DEVELOPED FOR SUBMISSION TO VERZEO FOR EVALUATION OF MAJOR PROJECT
 SPECIFICATIONS OF THE PROJECT :
 The project is a website which demonstrates the portfolio of an interior designing firm. It shows the various details such as the employees of the company, the designs which are available, pricing of the services, and a page to allow the user to contact the firm.
